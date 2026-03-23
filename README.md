@@ -36,5 +36,5 @@ This project helped me understand how to design a user interface, take user inpu
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Developer
 **Mukul Anand**
