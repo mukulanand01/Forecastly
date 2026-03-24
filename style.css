@@ -255,6 +255,11 @@ section {
   padding: 12px;
 }
 
+section + section {
+  margin-top: 12px;
+}
+
+
 body.dark-mode .list-section > div,
 body.dark-mode section {
   background-color: rgba(30, 41, 59, 0.6);
